@@ -13,6 +13,9 @@ How the ??? difficulty words: enter a letter that you do not want to appear in t
 - Hard - 30 seconds, long word.
 - ??? - 45 seconds, varying word length.
 
-
+### Results
+- After clicking on results a:
+- JSON file will update with your game results.
+- TXT file will update with your game results.
 
 Github with all the words in the game: https://raw.githubusercontent.com/ngryman/lol-champions/master/champions.json
