@@ -8,10 +8,10 @@ Select the difficlty you want to do. The harder the difficulty means less time a
 How the ??? difficulty words: enter a letter that you do not want to appear in the word.
 
 ### Difficulties
-Easy - 120 seconds, short word\n
-Medium - 60 seconds, short-medium word\n
-Hard - 30 seconds, long word\n
-??? - 45 seconds, varying word length\n
+- Easy - 120 seconds, short word.
+- Medium - 60 seconds, short-medium word.
+- Hard - 30 seconds, long word.
+- ??? - 45 seconds, varying word length.
 
 
 
