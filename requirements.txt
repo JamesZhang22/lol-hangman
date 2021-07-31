@@ -1,0 +1,4 @@
+pygame==2.0.1
+typing-extensions==3.10.0.0 
+requests==2.25.1
+requests-file==1.5.1
